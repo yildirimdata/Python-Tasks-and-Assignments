@@ -1,2 +1,3 @@
-# assignmentsF4033
-My submission for the answer of the assignment 9
+All python assignments and also practice notebooks on various python topics..
+
+Practice questions and tasks are mainly obtained from hackerrank, kaggle, and other python websites
